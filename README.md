@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on SCCM Administration (MECM)
 - 🌱 I’m currently learning ... Programming ( HTML, CSS, JavaScript)
 - 💬 Ask me about ... All the SCCM topics
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/greenfelipe">
