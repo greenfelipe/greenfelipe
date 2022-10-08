@@ -8,13 +8,13 @@
   ##
 
 - 🔭 Eu atualmente trabalho com Administração do System Center (MECM)
-- 🌱 Estou estudando programação (HTML, CSS, JavaScript)
+- 🌱 Estou estudando programação (HTML, CSS, JavaScript e Java)
 - 💬 Me pergunte tudo sobre SCCM
 - 😄 Pronome: ele/dele
 
 <i>(English)</i>
 - 🔭 I’m currently working on SCCM Administration (MECM)
-- 🌱 I’m currently learning ... Programming ( HTML, CSS, JavaScript)
+- 🌱 I’m currently learning ... Programming ( HTML, CSS, JavaScript and Java)
 - 💬 Ask me about ... All the SCCM topics
 - 😄 Pronouns: he/him
 
