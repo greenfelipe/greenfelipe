@@ -1,5 +1,12 @@
 <h1>Hello, I'm Felipe!</h1>
 
+<div>
+ <a href = "mailto:fsribeiro90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/fdsribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+  
+  ##
+
 - 🔭 Eu atualmente trabalho com Administração do System Center (MECM)
 - 🌱 Estou estudando programação (HTML, CSS, JavaScript)
 - 💬 Me pergunte tudo sobre SCCM
@@ -29,10 +36,3 @@
 
 </div>
   
-  ##
-  
-<div>
- <a href = "mailto:fsribeiro90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/fdsribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
